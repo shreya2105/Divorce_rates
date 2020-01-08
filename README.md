@@ -1,2 +1,4 @@
 # Divorce_rates
- Prediction divorces
+The dataset 'Divorce Predictors data set' is sourced from UCI Machine Learning Repository. It was donated by team at Tokat Gaziosmanpaşa University, Turkey on 24th July 2019. Here's a related paper based on this dataset: Yöntem, M , Adem, K , İlhan, T , Kılıçarslan, S. (2019). DIVORCE PREDICTION USING CORRELATION BASED FEATURE SELECTION AND ARTIFICIAL NEURAL NETWORKS. Nevşehir Hacı Bektaş Veli University SBE Dergisi, 9 (1), 259-273. http://dergipark.org.tr/nevsosbilen/issue/46568/549416
+
+Dataset contains 170 people who are categorized as married, or divorced in the Class column. The responses of the participants on 54 questions/statements were recorded between scores 0-4. The purpose of this workbook is to build a model that predicts if the person stays married or divorced based on the questions asked.  
